@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Anastasia115/Shopping-List-React/static/css/main.59e6b2df.css",
-    "main.js": "/Anastasia115/Shopping-List-React/static/js/main.801e0949.js",
-    "static/js/787.0c3f432a.chunk.js": "/Anastasia115/Shopping-List-React/static/js/787.0c3f432a.chunk.js",
-    "static/media/bag.svg": "/Anastasia115/Shopping-List-React/static/media/bag.fd62327aeef56eb75f2abe2a8d1d9eb9.svg",
-    "static/media/plusicon.svg": "/Anastasia115/Shopping-List-React/static/media/plusicon.3b20a7b199b6603e2d5166e6c2158fab.svg",
-    "static/media/trashicon.svg": "/Anastasia115/Shopping-List-React/static/media/trashicon.93523b87c02a33f24c4b65277e93b7f9.svg",
-    "index.html": "/Anastasia115/Shopping-List-React/index.html",
-    "static/media/editicon.svg": "/Anastasia115/Shopping-List-React/static/media/editicon.a20daab3854d6596f5a19a754b76c234.svg",
-    "static/media/plus.svg": "/Anastasia115/Shopping-List-React/static/media/plus.182b85e0230eacabedd3bc150bbf6fc6.svg",
-    "static/media/minus.svg": "/Anastasia115/Shopping-List-React/static/media/minus.91ee151dbfa3aa691723d90232c94a5e.svg",
-    "main.59e6b2df.css.map": "/Anastasia115/Shopping-List-React/static/css/main.59e6b2df.css.map",
-    "main.801e0949.js.map": "/Anastasia115/Shopping-List-React/static/js/main.801e0949.js.map",
-    "787.0c3f432a.chunk.js.map": "/Anastasia115/Shopping-List-React/static/js/787.0c3f432a.chunk.js.map"
+    "main.css": "/Anastasia115/shoplist.git/static/css/main.59e6b2df.css",
+    "main.js": "/Anastasia115/shoplist.git/static/js/main.671a5cb0.js",
+    "static/js/787.0c3f432a.chunk.js": "/Anastasia115/shoplist.git/static/js/787.0c3f432a.chunk.js",
+    "static/media/bag.svg": "/Anastasia115/shoplist.git/static/media/bag.fd62327aeef56eb75f2abe2a8d1d9eb9.svg",
+    "static/media/plusicon.svg": "/Anastasia115/shoplist.git/static/media/plusicon.3b20a7b199b6603e2d5166e6c2158fab.svg",
+    "static/media/trashicon.svg": "/Anastasia115/shoplist.git/static/media/trashicon.93523b87c02a33f24c4b65277e93b7f9.svg",
+    "index.html": "/Anastasia115/shoplist.git/index.html",
+    "static/media/editicon.svg": "/Anastasia115/shoplist.git/static/media/editicon.a20daab3854d6596f5a19a754b76c234.svg",
+    "static/media/plus.svg": "/Anastasia115/shoplist.git/static/media/plus.182b85e0230eacabedd3bc150bbf6fc6.svg",
+    "static/media/minus.svg": "/Anastasia115/shoplist.git/static/media/minus.91ee151dbfa3aa691723d90232c94a5e.svg",
+    "main.59e6b2df.css.map": "/Anastasia115/shoplist.git/static/css/main.59e6b2df.css.map",
+    "main.671a5cb0.js.map": "/Anastasia115/shoplist.git/static/js/main.671a5cb0.js.map",
+    "787.0c3f432a.chunk.js.map": "/Anastasia115/shoplist.git/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59e6b2df.css",
-    "static/js/main.801e0949.js"
+    "static/js/main.671a5cb0.js"
   ]
 }
