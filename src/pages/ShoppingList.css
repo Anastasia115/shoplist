@@ -1,0 +1,109 @@
+
+@import url('http://fonts.cdnfonts.com/css/clash-display');
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'General Sans';
+  font-weight: normal;
+  src: "../fonts/GeneralSans-Regular.OTF" format("opentype");
+}
+
+@font-face {
+  font-family: 'General Sans';
+  font-weight: bold;
+  src: "../fonts/GeneralSans-Medium.OTF" format("opentype");
+}
+.title{
+  width: 90%;
+  height: auto;
+  background-color: white;
+  margin: auto;
+  
+}
+.title h1{
+  font-family: 'Clash Display', sans-serif;
+  font-weight:500;
+  font-size: 4rem;
+  margin-top: 2rem;
+  margin-bottom: 0;
+ 
+
+}
+.title p{
+  font-family: 'General Sans';
+  font-weight: regular;
+  font-size: 1.2rem;
+  margin-top: 0;
+  
+}
+.form-container{
+  display:flex;
+  justify-content:center;
+  flex-direction: column;
+
+
+}
+
+.form{
+  height: 80px;
+  width: 340px; 
+  border-radius: 12px;
+  background-color: #DBEDDD;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+.input{
+  height: 40px;
+  border: none;
+  background: transparent;
+  font-family: 'General Sans';
+  font-size: 15px;
+  outline: none;
+  padding: 1em 1em;
+  position: relative;
+}
+.btn{
+  height: 30px;
+  width: 100px;
+  background-color: #0F0F0F;
+  border-radius: 20px;
+  font-family: 'General Sans';
+  color: #FAFAFA;
+  cursor: pointer;
+}
+.error{
+  display:flex;
+  justify-content:center;
+  align-items: center;
+}
+
+.no-list{
+  width: 90%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 30px;
+  margin: auto;
+}
+.no-list img{
+  height: 40vh;
+  width: auto;
+}
+.no-list p{
+  font-family: 'General Sans';
+    font-weight: regular;
+    font-size: 1.2rem;
+    text-align: center;
+
+}
